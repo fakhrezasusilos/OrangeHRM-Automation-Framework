@@ -1,0 +1,4 @@
+Stored Cookie after login: orangehrm=d7vu6mcgp5e7ni0c0nidp2lko6
+FILL VALUE: Auto_1773808102513
+FILL VALUE: User_5
+FILL VALUE: EMP5102513
