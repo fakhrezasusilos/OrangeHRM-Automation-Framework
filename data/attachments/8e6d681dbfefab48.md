@@ -79,7 +79,7 @@
           - listitem [ref=e124]:
             - generic [ref=e125] [cursor=pointer]:
               - img "profile picture" [ref=e126]
-              - paragraph [ref=e127]: Monkey Luffy
+              - paragraph [ref=e127]: muser 56788
               - generic [ref=e128]: 
       - navigation "Topbar Menu" [ref=e130]:
         - list [ref=e131]:
@@ -125,7 +125,7 @@
           - generic [ref=e174]:
             - generic [ref=e176]: Employee Name*
             - generic [ref=e178]:
-              - textbox "Type for hints..." [active] [ref=e180]: Peter Mac Anderson
+              - textbox "Type for hints..." [active] [ref=e180]: Thomas Kutty Benny
               - listbox [ref=e181]:
                 - option "No Records Found" [ref=e182] [cursor=pointer]
           - generic [ref=e184]:
